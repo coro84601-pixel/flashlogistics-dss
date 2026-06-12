@@ -23,5 +23,5 @@ Desarrollar un Sistema de Soporte a la Decisión (DSS) para FlashLogistics que r
 
 ## Integrantes
 
-* (Tu nombre)
-* (Nombre de tus compañeros)
+* (Joel Santiago Coro Alvarez)
+
